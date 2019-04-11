@@ -1,0 +1,128 @@
+
+
+body{                                         /* attention sans le point et en ecrivant body c'est pour donner des instruction a toute la page web par exemple ici tout mon fond de page est d'une certaine couleur*/
+    background: url(../image/images.jpeg); 
+    background-size: cover;                                          /* couleur de fond derriere*/
+}                                              /*background-color: rgb(202, 166, 166)*/
+
+
+.police{ 
+font-size: 3em;
+color: brown;
+}
+
+
+ .presentation{
+     border: 4px rgb(0, 0, 0) solid;
+     text-align: center;
+     float: right;
+ }
+
+
+ .proverbe{
+     background: url(../image/sécurité.jpg);
+     text-align: center;
+     border: 4px black solid;
+     height: 100%;
+     width: 100%;
+     background-size: cover;
+}
+
+
+.centralcity{
+    font-size: 3em;
+    margin-top: 175px;
+    text-align: center;
+    color:black; 
+    font-style: italic;                              /* ici permet de modifier la forme de l'ecriture bold c'est en gras et italic= italique*/
+    font-style: bold ;
+} 
+
+
+.liens1{
+    float: left;
+}
+
+
+.liens2{
+    float: right;                                     /*deplacer vers la gauche ou la droite*/
+}
+
+.titrephoto{
+text-align: center;
+margin-top: 185px;                                    /*pour deplacer vers le bas utile surtout pour le texte ou pour abaisser les titres ect...*/
+}
+
+
+.photofamille1{
+text-align: center;
+float: left;
+margin-top: 75px;
+background: url(../image/les3freres.jpg);             /*pour mettre qqch en arriere plan photo couleur ect...*/
+height: 100%;                                         /*la hauteur de l'image*/
+width: 49%;                                           /* la largueur de l'image*/
+border: 2px solid;                                    /* mettre une bordure*/
+}
+
+.photofamille2{
+text-align: center;
+margin-top: 75px;
+background: url(../image/cesarliloucypi.jpg);
+float: right;
+height: 100%;
+width: 50%;
+border: 2px solid;
+}
+
+.photofamille3{
+    text-align: center;
+    float: left;
+    background: url(../image/kitesurfeuse.jpg);
+    background-size: cover;                            /* pour que la photo couvre toute la surface*/
+    height: 100%;
+    width: 97%;
+    border: 2px solid;
+    font-size: 2em;                                    /* taille de la police*/
+}
+
+.regle{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.depart{
+    margin-bottom: 75px;
+    text-align: center;
+
+}
+
+.depart1{
+    text-align: center;
+    background: url(../image/photobateau.jpg);
+    background-size: cover;
+    float: left;
+    height: 100%;
+    width: 50%; 
+    border: 2px solid;
+}
+
+.depart2{
+    text-align: center;
+    background: url(../image/imageplage.jpg);
+    background-size: cover;
+    float: right;
+    height: 100%;
+    width: 49%;
+    border: 2px solid;
+}
+
+.decalage{ 
+    margin-top: 175px;
+    font-size: 1.25em;
+}
+
+.decalage2{ 
+    margin-top: 150px;
+    font-size: 1.25em;
+}
