@@ -16,4 +16,5 @@ le projet est en perpetuel amélioration, je continue à le parfaire pour qu'il 
 
 n'ayant aucune connaissance de base dans l'encodage je pense pouvoir me permettre de dire que la formation est agréable, interessante, bien expliqué, et avec des objectif complet qui permette une formation autonome mais avec un encadrement en cas de soucis.
 Merci pour cette formation et merci au formateur.
-
+j'ai accepter de collaborer avec toi je suuis le virus   :
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit perferendis esse, aperiam sed doloribus, recusandae autem earum dolorum laudantium sapiente consequuntur aliquid repudiandae rem? Nostrum error atque tenetur mollitia dolor?
